@@ -1,0 +1,8 @@
+fastapi
+streamlit
+python-multipart
+azure-ai-formrecognizer
+pandas
+uvicorn
+requests
+openpyxl
